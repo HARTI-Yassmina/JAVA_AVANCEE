@@ -1,0 +1,14 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ô—•ÿÿÿÿÿJ$9c2600c6-cf7c-4343-8350-55b9b4505920
+r	java:S106"+Replace this use of System.out by a logger.(òÏ¥Ïÿÿÿÿÿ8ï„·¿‹2J$ede11fc3-67b5-4496-919e-833b45a951bd
+r	java:S106
+"+Replace this use of System.out by a logger.(–È½‡ÿÿÿÿÿ8ˆ²·¿‹2J$453ab1c3-7625-4c3a-ae3b-2ab6a09908a8
+m	java:S106"+Replace this use of System.out by a logger.(éí»¯8—²·¿‹2J$4982fc1e-d918-41de-973f-84c4c6032680
+r	java:S106"+Replace this use of System.err by a logger.(Ûˆİïüÿÿÿÿ8ï„·¿‹2J$fdf1479c-2cb3-4018-99d8-3da7daffeb54
+m	java:S106"+Replace this use of System.err by a logger.(—Òû’8ï„·¿‹2J$e2538ff6-8ce5-410e-a9a4-a6adac012cfe
+t
+java:S1481"2Remove this unused "entierNegatif" local variable.(©§Ì\8—²·¿‹2J$8e0608a7-f8d2-4c21-a944-ee575a3ad2ac
+r	java:S106"+Replace this use of System.err by a logger.(Ûˆİïüÿÿÿÿ8ï„·¿‹2J$1e755f67-f0d3-4e38-b6f0-bdf0459d9732
+m	java:S106"+Replace this use of System.err by a logger.(—Òû’8—²·¿‹2J$123820b6-e517-42b2-8962-1c01ba02c773
+r	java:S106 "+Replace this use of System.err by a logger.(Ûˆİïüÿÿÿÿ8—²·¿‹2J$ccc4e094-90fd-42b2-b73f-12ef409fd077
+m	java:S106!"+Replace this use of System.err by a logger.(—Òû’8—²·¿‹2J$09666dd7-8c36-4a97-a612-5bbeb7d9c474

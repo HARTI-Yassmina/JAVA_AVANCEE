@@ -1,0 +1,8 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°ğ×£J$136fda10-198e-43dc-b9a0-57c31686a3db
+r	java:S106"+Replace this use of System.out by a logger.(¶¢»Äÿÿÿÿÿ8˜öÁ¿‹2J$afe7d113-6daa-4f14-b887-d9440b30af63
+m	java:S106"+Replace this use of System.out by a logger.(‚òÑ8˜öÁ¿‹2J$0a8f90eb-5b36-4a95-93b8-7cce8719b226
+r	java:S106"+Replace this use of System.out by a logger.(¡¥³Ãúÿÿÿÿ8˜öÁ¿‹2J$93c5b053-4978-4a21-a653-43620df4e426
+r	java:S106*"+Replace this use of System.out by a logger.(ÀÖŠïùÿÿÿÿ8˜öÁ¿‹2J$e9d3f85b-ebed-4479-b55f-331723663ffc
+x
+java:S1068"0Remove this unused "numeroCompte" private field.(§«€™øÿÿÿÿ8˜öÁ¿‹2J$ab9db074-428d-4a3e-9a54-221829e3c71a
